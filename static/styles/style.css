@@ -2,7 +2,7 @@
   --body-bg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
   --msger-bg: #fff;
   --border: 2px solid #ddd;
-  --left-msg-bg: #11d632;
+  --left-msg-bg: #3c42e9;
   --right-msg-bg: #579ffb;
 }
 
@@ -136,14 +136,14 @@ body {
 }
 .msger-send-btn {
   margin-left: 10px;
-  background: rgb(0, 196, 65);
+  background: rgb(62, 64, 186);
   color: #fff;
   font-weight: bold;
   cursor: pointer;
   transition: background 0.23s;
 }
 .msger-send-btn:hover {
-  background: rgb(0, 180, 50);
+  background: rgb(73, 65, 161);
 }
 
 .msger-chat {

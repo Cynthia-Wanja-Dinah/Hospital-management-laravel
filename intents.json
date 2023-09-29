@@ -6,7 +6,7 @@
                 "context": [""]
         },
         {
-                "tag": "goodbye",
+                "tag": "",
                 "patterns": ["Bye", "Goodbye", "See you later"],
                 "responses": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."],
                 "context": [""]
@@ -25,7 +25,7 @@
         },
         {
                 "tag": "options",
-                "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+                "patterns": ["How can i reset my password?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
                 "responses": ["I can guide you through issues related to Moodle, Zoom, Respondus, Email and Portal", "Offering support for diverse issues relating to Moodle, Zoom, Respondus, Email and Portal"],
                 "context": [""]
         },
